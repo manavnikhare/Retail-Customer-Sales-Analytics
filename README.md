@@ -1,4 +1,4 @@
-# Retail Customer Insights & Sales Analytics
+# Retail Customer Sales Analytics
 
 ## 📌 Project Overview
 
@@ -62,10 +62,10 @@ Power BI Dashboard
 Business Insights
 │
 ├── SQL/
-│   └── Retail Customer Insights & Sales Analytics.sql
+│   └── Retail Customer Sales Analytics.sql
 │
 ├── Power BI/
-│   └── Retail Customer Insights & Sales Analytics.pbix
+│   └── Retail Customer Sales Analytics.pbix
 │
 └── README.md
 ```
